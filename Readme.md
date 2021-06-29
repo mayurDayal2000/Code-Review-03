@@ -36,7 +36,7 @@ Your style should include a labeled section of the fonts to be used (we recommen
 </ul>
 
 <p>
-n addition to the list of possible fonts, your style guide should include a section for specific text styles for page elements. Include at least 3 element styles, and ideally as many as you’d like to use in future sites. For each page element, include:
+In addition to the list of possible fonts, your style guide should include a section for specific text styles for page elements. Include at least 3 element styles, and ideally as many as you’d like to use in future sites. For each page element, include:
 </p>
 
 <ul>
